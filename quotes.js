@@ -5,3 +5,5 @@ const quotes = [
    "Real knowledge is to know the extent of one’s ignorance",
    "Getting information off the Internet is like taking a drink from a fire hydrant",
 ]
+
+module.exports = quotes;
